@@ -1,0 +1,39 @@
+ul
+ { 
+   list-style-type:none;
+   overflow:hidden;
+  }  
+  
+li a
+   {
+    
+     padding:20px;
+     font-size: 1.05rem;
+      font-weight: 600;
+      color:black;
+       float:left;
+    }
+ 
+ li a:link {
+        text-decoration:none;
+        }
+li  a:hover {
+        color:#f9532d;
+        }
+ .container {
+  
+        display:flex;
+         justify-content:center;
+        
+         }
+                
+
+
+ 
+li {
+  display: inline-block;
+  margin-right: 10px; 
+
+
+
+
